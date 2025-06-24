@@ -13,8 +13,10 @@ I'm a dedicated and results-driven software developer with 4+ years of experienc
 <a href="http://www.github.com/HamzaReza"><img src="https://github-readme-stats.vercel.app/api?username=HamzaReza&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=64748b&icon_color=22c55e&bg_color=0f172a&hide_border=true&show_icons=true" alt="Hamza Reza's GitHub stats" /></a>
 
 <a href="https://github.com/HamzaReza" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaReza&langs_count=10&title_color=3382ed&text_color=64748b&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaReza&cache_seconds=30&langs_count=10&title_color=3382ed&text_color=64748b&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HamzaReza&icon=0&color=0)](https://visitcount.itsvg.in)
